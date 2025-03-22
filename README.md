@@ -2,6 +2,7 @@
 A simple game for beginner learns C programming. 
 
 Project explanation: https://youtu.be/jbyQUU5qi1M
+
 Arduino version explanation: https://youtu.be/zmH4EOLgjpw
 
 Result:
